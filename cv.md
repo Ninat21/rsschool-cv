@@ -25,15 +25,17 @@ My goal is to start a career in front-end development. I'm a Neat and friendly p
 ## Education:
 
 1. **Higher education (master):**
-*DECEMBER 2018*
-Odessa National Polytechnic University
-Institute of Industrial Technology, Design and Management
-Computer Science and Information Technology of Design
+
+*December 2018*.
+Odessa National Polytechnic University.
+Institute of Industrial Technology, Design and Management.
+Computer Science and Information Technology of Design.
 
 2. **Online-courses:**
-*September 2019 - until now*
-JavaScript/Front-end course from RS-School
+
+*September 2019 - until now*.
+JavaScript/Front-end course from RS-School.
 
 ## Languages:
 
-*English* – Pre-Intermediate
+*English* – Pre-Intermediate.
