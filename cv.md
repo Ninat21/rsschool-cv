@@ -5,7 +5,7 @@
 * **adress:** Ukraine, Odessa
 * **email:** d.aleksandrovna21@gmail.com
 * **phone:** +380930780700
-* **Github:** Ninat21
+* **Github:** [Ninat21](https://github.com/Ninat21)
 
 ## Summary
 
@@ -25,14 +25,12 @@ My goal is to start a career in front-end development. I'm a Neat and friendly p
 ## Education:
 
 1. **Higher education (master):**
-
 *December 2018*.
 Odessa National Polytechnic University.
 Institute of Industrial Technology, Design and Management.
 Computer Science and Information Technology of Design.
 
 2. **Online-courses:**
-
 *September 2019 - until now*.
 JavaScript/Front-end course from RS-School.
 
