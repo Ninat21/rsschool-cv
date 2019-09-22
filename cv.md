@@ -1,28 +1,28 @@
-#Daria Pruss
+# Daria Pruss
 
-##Contacts info
+## Contacts info
 
-**adress:**Ukraine, Odessa
-**email:** d.aleksandrovna21@gmail.com
-**phone:** +380930780700
-**Github:** Ninat21
+* **adress:** Ukraine, Odessa
+* **email:** d.aleksandrovna21@gmail.com
+* **phone:** +380930780700
+* **Github:** Ninat21
 
-##Summary
+## Summary
 
 My goal is to start a career in front-end development. I'm a Neat and friendly person, team player, quick-learner. I have good analytical and logical skills. I have been a practice HTML coding while studying at ONPU and the courses that I now pass.
 
-##Skills
+## Skills
 
-*HTML
-*CSS 
-*JS
-*Git
-*SQL
-*Photoshop
-*Illustrator
-*3DS Max
+* HTML
+* CSS 
+* JS
+* Git
+* SQL
+* Photoshop
+* Illustrator
+* 3DS Max
 
-##Education:
+## Education:
 
 1. **Higher education (master):**
 *DECEMBER 2018*
@@ -34,6 +34,6 @@ Computer Science and Information Technology of Design
 *September 2019 - until now*
 JavaScript/Front-end course from RS-School
 
-##Languages:
+## Languages:
 
 *English* – Pre-Intermediate
