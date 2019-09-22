@@ -1,0 +1,63 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+
+    font-size: 18px;
+    font-family: "Roboto Condensed", "Arial", sans-serif;
+
+    background-color: #f5eeea;
+}
+
+h1 {
+    display: inline-block;
+    margin-bottom: 0;
+    
+    
+    font-size: 60px;
+    color: #ff4500;
+    text-transform: uppercase;
+
+    text-shadow: 1px 1px 2px #808080;
+}
+
+a {
+    color: #2f4f4f;
+}
+
+a:hover {
+    color: #ff4500;
+}
+
+h2 {
+    clear: right;
+   
+    text-align: right;
+
+    border-bottom: 1px solid #000000;
+}
+
+.education i {
+    font-size: 14px;
+}
+
+.languages i {
+    font-weight: bold;
+}
+
+.languages, .summary {
+    padding-left: 20px;
+}
+
+img {
+    float: right;
+    margin: 20px 0 20px 20px;
+
+    border-radius: 50%;
+}
+
+#junior { 
+    margin-top: 30px;
+
+    font-size: 50px;
+    font-weight: 300;
+}
